@@ -52,9 +52,13 @@ I believe digital skills can open doors — and I'm here to help others walk thr
 ---
 
 📫 *Contact Me*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/nqobile-masango-6b7b11372)  
-[![Email 1](https://img.shields.io/badge/Email%201-D14836?logo=gmail&logoColor=white)](mailto:masangonqobile870@gmail.com)  
-[![Email 2](https://img.shields.io/badge/Email%202-D14836?logo=gmail&logoColor=white)](mailto:nqobileimithandazomasango@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](http://www.linkedin.com/in/nqobile-masango-6b7b11372) 
+
+[![Email 1](https://img.shields.io/badge/Email%201-D14836?logo=gmail&logoColor=white)](mailto:masangonqobile870@gmail.com) 
+
+[![Email 2](https://img.shields.io/badge/Email%202-D14836?logo=gmail&logoColor=white)](mailto:nqobileimithandazomasango@gmail.com) 
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/nqobile-masango)
 
 <img width="601" height="601" alt="bagde cloud" src="https://github.com/user-attachments/assets/e306d0f3-6fcb-4763-988d-7b780b9a14b5" />
